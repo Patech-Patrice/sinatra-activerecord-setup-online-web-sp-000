@@ -13,7 +13,7 @@ gem 'sinatra'
             gem 'pry'
             gem 'tux'
             gem 'sqlite3'
-end
+          end
 
 group :test do
   gem 'rspec'
